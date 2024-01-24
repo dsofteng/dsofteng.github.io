@@ -612,7 +612,7 @@ html{
     color: #fff;
     font-size: 18px;
 }
-.contacto .btn-send{
+.contacto input .btn-send{
     cursor: pointer;
     background-color: transparent;
     border: 2px solid #fff;
