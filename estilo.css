@@ -612,7 +612,7 @@ html{
     color: #fff;
     font-size: 18px;
 }
-.contacto input .btn-send{
+.contacto #button{
     cursor: pointer;
     background-color: transparent;
     border: 2px solid #fff;
@@ -625,7 +625,7 @@ html{
     position: relative;
     z-index: 10;
 }
-.contacto button .overlay{
+.contacto .col .overlay{
     position: absolute;
     top: 0;
     left: 0;
