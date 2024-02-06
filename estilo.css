@@ -612,6 +612,13 @@ html{
     color: #fff;
     font-size: 18px;
 }
+
+.contacto .col .titulo{
+    font-size: 18px;
+    text-decoration: none;
+    font-style: bold;
+    margin-bottom: 25px;
+}
 .contacto #button{
     cursor: pointer;
     background-color: transparent;
