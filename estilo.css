@@ -334,22 +334,22 @@ html{
     100%{width: 100%;}
 }
 
-.skills .skill .python{
+.skills .skill .reactjs{
     width: 0%;
-    animation: 2s python forwards;
+    animation: 2s reactjs forwards;
 
 }
-@keyframes python{
+@keyframes reactjs{
     0%{width: 0%;}
     100%{width: 85%;}
 }
 
-.skills .skill .csharp{
+.skills .skill .nodejs{
     width: 0%;
-    animation: 2s csharp forwards;
+    animation: 2s nodejs forwards;
 
 }
-@keyframes csharp{
+@keyframes nodejs{
     0%{width: 0%;}
     100%{width: 85%;}
 }
