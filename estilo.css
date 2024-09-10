@@ -616,10 +616,6 @@ html{
 
 .contacto .col .titulo{
     font-size: 20px;
-    text-decoration: none;
-    font-style: bold;
-    margin-bottom: 25px;
-    padding-bottom: 5px;
 }
 .contacto #button{
     cursor: pointer;
