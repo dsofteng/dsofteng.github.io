@@ -611,6 +611,7 @@ html{
     background-color: #8c8c8c;
     color: #fff;
     font-size: 18px;
+    resize: none;
 }
 
 .contacto .col .titulo{
